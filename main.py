@@ -15,7 +15,7 @@ def get_user():
         Exception: If an error occurs during the API request.
     """
     try:
-        response = requests.get(url=f"{os.getenv('GITHUB_API_URL')}/user", headers={"Authorization": f"Bearer {os.getenv('TOKEN')}"})
+        response = requests.get(url=f"{os.getenv('API_URL')}/user", headers={"Authorization": f"Bearer {os.getenv('TOKEN')}"})
         return response.json()
     except Exception as error:
         return error 
@@ -34,7 +34,7 @@ def get_repos(user):
     """
     repos = """"""
     try:
-        response = requests.get(url=f"{os.getenv('GITHUB_API_URL')}/users/{user}/repos")
+        response = requests.get(url=f"{os.getenv('API_URL')}/users/{user}/repos")
     except Exception as error:
         return error 
     

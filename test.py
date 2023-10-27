@@ -86,7 +86,7 @@ class APITestGetRepos(unittest.TestCase):
 class APITestGetUser(unittest.TestCase):
 
     def test_api_user_success(self):
-        response = requests.get(url=f"{os.getenv('GITHUB_API_URL')}/user", headers={"Authorization": f"Bearer {os.getenv('TOKEN')}"})
+        response = requests.get(url=f"{os.getenv('API_URL')}/user", headers={"Authorization": f"Bearer {os.getenv('TOKEN')}"})
         self.assertEqual(response.status_code, 200)
         user = response.json()
         self.assertIsInstance(user, dict)
