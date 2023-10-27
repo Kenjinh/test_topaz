@@ -8,3 +8,11 @@
 - Número de seguidores
 - Número de usuários seguidos
 - Lista da Repositórios
+
+## Variáveis de Ambiente
+
+Para rodar esse projeto, você vai precisar adicionar as seguintes variáveis de ambiente no seu .env
+
+`GITHUB_API_URL`
+
+`TOKEN`
