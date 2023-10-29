@@ -1,0 +1,42 @@
+Nome: Gabriel Kenji dos Santos Nohara
+Perfil: Kenjinh
+Número de repositórios publicos: 12
+Número de seguidores: 5
+Número de usuários seguidos: 6
+Lista da Repositórios:
+  ID: 528191816
+  Nome: calculadora-js
+  url: https://github.com/Kenjinh/calculadora-js
+  ID: 475166760
+  Nome: curso-em-bot
+  url: https://github.com/Kenjinh/curso-em-bot
+  ID: 564106960
+  Nome: forum
+  url: https://github.com/Kenjinh/forum
+  ID: 538729097
+  Nome: help-it
+  url: https://github.com/Kenjinh/help-it
+  ID: 420143095
+  Nome: investingbrasil
+  url: https://github.com/Kenjinh/investingbrasil
+  ID: 414421043
+  Nome: Kenjinh
+  url: https://github.com/Kenjinh/Kenjinh
+  ID: 531743677
+  Nome: nodejs-library-api
+  url: https://github.com/Kenjinh/nodejs-library-api
+  ID: 434422179
+  Nome: projeto-ciencia-de-dados
+  url: https://github.com/Kenjinh/projeto-ciencia-de-dados
+  ID: 664802883
+  Nome: school_card_control
+  url: https://github.com/Kenjinh/school_card_control
+  ID: 710571963
+  Nome: test_topaz
+  url: https://github.com/Kenjinh/test_topaz
+  ID: 572745456
+  Nome: validation_password
+  url: https://github.com/Kenjinh/validation_password
+  ID: 467662151
+  Nome: virtual-assistent
+  url: https://github.com/Kenjinh/virtual-assistent
